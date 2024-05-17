@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Khatri</h1>
-<h3 align="center">A passionate Full Stack Developer from India working towards a Master's degress in Computer Science from University of Utah, USA.</h3>
+<h3 align="center">A passionate Full Stack Developer from India working towards a Master's degree in Computer Science from University of Utah, USA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkhatrii&label=Profile%20views&color=0e75b6&style=flat" alt="akashkhatrii" /> </p>
 
