@@ -1,6 +1,17 @@
-# 💫 About Me:
-improving
+<h1 align="center">Hi 👋, I'm Akash Khatri</h1>
+<h3 align="center">A passionate Full Stack Developer from India working towards a Master's degress in Computer Science from University of Utah, USA.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkhatrii&label=Profile%20views&color=0e75b6&style=flat" alt="akashkhatrii" /> </p>
+
+- 🌱 I’m currently learning **React.js, DevOps**
+
+- 👯 I’m looking to collaborate on **Full Stack and ML projects**
+
+- 🤝 I’m looking for help with **Placements, Projects and Practice**
+
+- 💬 Ask me about **Python, React and Sports!**
+
+- 📫 How to reach me **akash.m.khatri@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akashkhatri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashkhatri) 
