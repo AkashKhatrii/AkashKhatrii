@@ -7,11 +7,11 @@
 - I'm currently pursuing my Master's in Computer Science from the University of Utah
 - 🌱 Actively learning and developing projects using **MERN and Devops**
 - 👯 I’m looking to collaborate on **Full Stack and ML projects**
-- 🤝 I’m looking for help with **Placements, Projects and Practice**
+- 🤝 I’m looking for help with **Open Source Projects and Hackathon teams!**
 - 💬 Ask me about **DSA, Python, React and Sports!**
 - 📫 How to reach me **akash.m.khatri@gmail.com**
 - Pronuns: He/Him
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_akashkhatri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashkhatri) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashkhatri) 
 
