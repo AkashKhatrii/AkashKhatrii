@@ -4,7 +4,7 @@ I'm currently pursuing my Master's in Computer Science at the University of Utah
 
 I love working on full-stack projects, especially using the MERN stack. Lately, I've been diving into DevOps to streamline development processes and make deployments smoother. Machine Learning fascinates me, and I'm always looking for ways to integrate intelligent solutions into the projects I work on.
 
-When I'm not coding, you'll probably find me playing or watching sports—I'm always up for a good game! I believe in the power of collaboration and am eager to work with others on innovative and impactful projects.
+When I'm not coding, you'll probably find me playing or watching sports; I'm always up for a good game! I believe in the power of collaboration and am eager to work with others on innovative and impactful projects.
 
 **Let's Connect:**
 
