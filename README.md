@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Akash Khatri</h1>
-<!-- <h3 align="center">A passionate Full Stack Developer working towards a Master's degree in Computer Science from University of Utah, USA.</h3>
- -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkhatrii&label=Profile%20views&color=0e75b6&style=flat" alt="akashkhatrii" /> </p>
- -->
-I am currently pursuing my Master's in Computer Science from the University of Utah. Passionate about Full Stack Development and Machine Learning, I love creating impactful projects and collaborating on innovative solutions.
+Hi there! 👋 I'm Akash.
 
+I'm currently pursuing my Master's in Computer Science at the University of Utah. My journey into tech started with a simple curiosity about how things work, which quickly turned into a passion for building and problem-solving.
 
-- 🌱 Actively developing projects using MERN stack and exploring DevOps.
-- 👯 Open to collaborating on Full Stack and ML projects.
-- 🤝 Seeking contributions and collaborations on Open Source Projects!
-- 💬 Feel free to ask me about Data Structures, Algorithms, Python, React, and Sports!
-- 📫 How to reach me **akash.m.khatri@gmail.com**
+I love working on full-stack projects, especially using the MERN stack. Lately, I've been diving into DevOps to streamline development processes and make deployments smoother. Machine Learning fascinates me, and I'm always looking for ways to integrate intelligent solutions into the projects I work on.
 
-## 🌐 Connect with me:
-- [LinkedIn](https://linkedin.com/in/akashkhatri) 
-- [Portfolio](https://akashkhatri.com)
+When I'm not coding, you'll probably find me playing or watching sports—I'm always up for a good game! I believe in the power of collaboration and am eager to work with others on innovative and impactful projects.
 
-📫 Reach me at: akash.m.khatri@gmail.com
+**Let's Connect:**
+
+- 💼 [LinkedIn](https://linkedin.com/in/akashkhatri)
+- 🌐 [Portfolio](https://akashkhatri.com)
+- 📫 Email: akash.m.khatri@gmail.com
+
+Feel free to reach out if you want to chat about tech, collaborate on a project, or just talk sports!
 
 Pronouns: He/Him
