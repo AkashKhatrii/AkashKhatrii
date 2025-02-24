@@ -1,10 +1,10 @@
 # Hello there! 👋 I'm Akash
 
-I'm a Master's student in **Computer Science** at the University of Utah, where my fascination with technology has grown into a passion for creating impactful software solutions.
+I'm a Master's student in Computer Science at the University of Utah, where my fascination with technology has grown into a passion for creating impactful software solutions.
 
 ### What I Do
 - **Full-Stack Development**  
-  I enjoy working with the **MERN stack** (MongoDB, Express.js, React, Node.js) to build engaging user experiences from the ground up.
+  I enjoy working with the MERN stack (MongoDB, Express.js, React, Node.js) to build engaging user experiences from the ground up.
 - **DevOps**  
   I'm exploring ways to improve CI/CD pipelines and automate workflows, ensuring smooth deployments and efficient software delivery.
 - **Machine Learning**  
